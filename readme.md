@@ -21,7 +21,7 @@
 2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit)
 3. 設計並發佈海報
 
-**註**：簡章內容中包含兩組報名連結，請<font color="red">國彰老師及子超老師</font>確認是否需修改。
+**註**：簡章內容中包含兩組報名連結，請**[國彰老師及子超老師]**確認是否需修改。
 
 - 資訊組報名網址：[https://forms.gle/BmMUV36qEqT5jGe97](https://forms.gle/BmMUV36qEqT5jGe97)
 - 管理組報名網址：[Google Formshttps://forms.gle/8RNgVu8GwQCX9B8t7](https://forms.gle/8RNgVu8GwQCX9B8t7)
@@ -32,12 +32,12 @@
 
 ### A. 資管系網站更新
 
-- 負責人：子超老師
+- 負責人：[**子超老師]**
 - 內容：在資管系網站放置【2026 全國經營管理專題競賽】簡章及報名連結。
 
 ### B. 評審邀請
 
-- 負責人：文書組
+- 負責人：[**文書組]**
 - 內容：邀請六位評審老師（評審老師皆與去年相同）。
 
 #### 資訊組評審
@@ -57,7 +57,7 @@
 
 ## 📞 聯絡資訊
 
-以上如有任何問題或建議，請聯絡 志成。
+以上如有任何問題或建議，請聯絡 **志成**。感恩
 
 ---
 
