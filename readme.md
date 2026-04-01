@@ -1,6 +1,6 @@
 # 2026 全國經營管理專題競賽
 
-## 2026 專題競賽資料夾Link  [資料夾Link](https://drive.google.com/drive/u/0/folders/1yqcpiRI0aXAL-L0u_z_2-CF_ltnv_uVO)
+## 2026 專題競賽資管系雲端資料夾快速Link  [資料夾Link](https://drive.google.com/drive/u/0/folders/1yqcpiRI0aXAL-L0u_z_2-CF_ltnv_uVO)
 
 ---
 
