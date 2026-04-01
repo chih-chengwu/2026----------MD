@@ -1,5 +1,9 @@
 # 2026 全國經營管理專題競賽
 
+## 2026 專題競賽資料夾Link  [資料夾Link](https://drive.google.com/drive/u/0/folders/1yqcpiRI0aXAL-L0u_z_2-CF_ltnv_uVO)
+
+---
+
 ## 📋 一.待決定/釐清事項
 
 以下是競賽籌備過程中需進一步確認的事項：
