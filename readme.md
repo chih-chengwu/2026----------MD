@@ -17,8 +17,8 @@
 
 競賽籌備的優先任務：
 
-1. 發送公文稿
-2. 公告競賽簡章
+1. 發送公文稿  [公文稿Link](https://docs.google.com/document/d/1Pml5aE88NE3V7gZIv3FUM75dEL0mQAj8/edit)
+2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit)
 3. 設計並發佈海報
 
 **註**：簡章內容中包含兩組報名連結，請國彰老師及子超老師確認是否需修改。
