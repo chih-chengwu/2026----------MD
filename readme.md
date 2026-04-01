@@ -21,7 +21,7 @@
 2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit)
 3. 設計並發佈海報
 
-**註**：簡章內容中包含兩組報名連結，請國彰老師及子超老師確認是否需修改。
+**註**：簡章內容中包含兩組報名連結，請<span style="color: red;">國彰老師及子超老師</span>確認是否需修改。
 
 - 資訊組報名網址：[https://forms.gle/BmMUV36qEqT5jGe97](https://forms.gle/BmMUV36qEqT5jGe97)
 - 管理組報名網址：[Google Formshttps://forms.gle/8RNgVu8GwQCX9B8t7](https://forms.gle/8RNgVu8GwQCX9B8t7)
