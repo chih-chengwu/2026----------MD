@@ -23,7 +23,7 @@
 
 1. 發送公文稿  [公文稿Link](https://docs.google.com/document/d/1Pml5aE88NE3V7gZIv3FUM75dEL0mQAj8/edit)
 2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit)
-3. 設計並發佈海報
+3. 設計並發佈海報  [海報LINK](https://drive.google.com/drive/u/0/folders/1EfqQanPTr97xGQhrATQcdne7E4skds65)
 
 **註**：簡章內容中包含兩組報名連結，請**國彰老師及子超老師**確認是否需修改。
 
