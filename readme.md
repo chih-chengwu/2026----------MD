@@ -21,14 +21,16 @@
 
 競賽籌備的優先任務：
 
-1. 發送公文稿  [公文稿Link](https://docs.google.com/document/d/1Pml5aE88NE3V7gZIv3FUM75dEL0mQAj8/edit)
-2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit)
-3. 設計並發佈海報  [海報LINK](https://drive.google.com/drive/u/0/folders/1EfqQanPTr97xGQhrATQcdne7E4skds65)
+1. 發送公文稿  [公文稿Link](https://docs.google.com/document/d/1Pml5aE88NE3V7gZIv3FUM75dEL0mQAj8/edit) 已經完成
+2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit) 已經完成
+3. 設計並發佈海報  [海報LINK](https://drive.google.com/drive/u/0/folders/1EfqQanPTr97xGQhrATQcdne7E4skds65) 已經完成
 
-**註**：簡章內容中包含兩組報名連結，請**國彰老師及子超老師**確認是否需修改。
+**註**：簡章內容中包含兩組報名連結，已經完成
 
 - 資訊組報名網址：https://forms.gle/uMiCyhpkWjnC64MW8
 - 管理組報名網址：https://forms.gle/eY4xYjXJ98StebQNA
+
+  <span style="color:red;">[籌備分工與進度](https://docs.google.com/document/d/13dtAerl9AMazM6AgaGPac5rHN5ui1CsG/edit)</span>
 
 ---
 
@@ -36,17 +38,17 @@
 
 ### A. 資管系網站更新
 
-- 負責人：**子超老師**
+- 負責人：**子超老師**  已經完成
 - 內容：在資管系網站放置【2026 全國經營管理專題競賽】簡章及報名連結。
 
 ### B. 評審邀請
 
 - 負責人：**文書組老師**
-- 內容：邀請六位評審老師（評審老師皆與去年相同）。
+- 內容：邀請六位評審老師。
 
 #### 資訊組評審
 
-- **陳靈均**：慈濟基金會資訊處主任
+- **陳靈均**：慈濟基金會資訊處主任  不克出席，<span style="color:red;">***要改邀光宗主任或覺揚營運長／協理呢？***</span>
 - **許芳銘**：東華大學管理學院院長聯絡方式：fmhsu@gms.ndhu.edu.tw
 - **李建泰**：東區資訊室主任，財佛教慈濟醫療財團法人
   聯絡方式：LEE@tzuchi.com.tw
@@ -54,10 +56,9 @@
 
 #### 管理組評審
 
-- **翁永卿**：教授，銘傳醫管系主任
-- **廖又生**：教授，亞東技術學院醫務管理系主任聯絡方式：FL010@mail.oit.edu.tw / 0988010960
-- **吳文彬**：副教授，德明財經科技大學企管系主任
-  聯絡方式：ogionged@gmail.com
+- ***翁瑞宏**：**教授，國立金門大學國際暨兩岸事務處國際長***
+- **廖又生**：教授，亞東科技大學醫務管理系主任聯絡方式：FL010@mail.oit.edu.tw / 0988010960
+- **吳文彬**：副教授，德明財經科技大學企管系主任　聯絡方式：ogionged@gmail.com
 
 ## 📞 聯絡資訊
 
