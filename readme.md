@@ -19,7 +19,9 @@
 
 ## ⚡ 二.須儘快辦理事項
 
-  [籌備分工與進度](https://docs.google.com/document/d/13dtAerl9AMazM6AgaGPac5rHN5ui1CsG/edit)
+  [a.籌備分工與進度](https://docs.google.com/document/d/13dtAerl9AMazM6AgaGPac5rHN5ui1CsG/edit)
+
+[  b.2026預算使用](https://docs.google.com/document/d/1g3ZzEs02_ut0Pf576_gmgv9r9IHj86su/edit)
 
 ---
 
