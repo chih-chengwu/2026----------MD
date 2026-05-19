@@ -11,8 +11,8 @@
 1. **獎金政策**：今年有獎金 30,000 元
 2. **預算安排**：
    - 去年：審查費每件 400 元，預計審查 20 位，每位評審老師 8,000 元。
-   - 今年：每位評審老師 4,800 元。
-   - **需確認今年評審老師的聘請方式。**
+   - **今年：每位評審老師 4,800 元**。
+   - 已OK: 需確認今年評審老師的聘請方式。
 3. **報告時間**：每件作品報告時間10分鐘 + (暫定)5分鐘提問/答覆。
 
 ---
@@ -22,6 +22,13 @@
   [a.籌備分工與進度](https://docs.google.com/document/d/13dtAerl9AMazM6AgaGPac5rHN5ui1CsG/edit)
 
 [  b.2026預算使用](https://docs.google.com/document/d/1g3ZzEs02_ut0Pf576_gmgv9r9IHj86su/edit)
+
+  c.報名狀況查詢:
+
+[資訊組](https://docs.google.com/spreadsheets/d/1MF-P3w2QsI0GAY0Gu88po2mMebtZje8QP6r8LSOBMRk/edit?resourcekey=&gid=543150840#gid=543150840)
+
+[管理組
+](https://docs.google.com/spreadsheets/d/1b7QN-b1MgHRD1B1bvAwEkUgz9nug8G3QlHH8EzFjF9M/edit?resourcekey=&gid=543622878#gid=543622878)
 
 ---
 
@@ -53,17 +60,15 @@
 #### 資訊組評審
 
 - **李建泰**：東區資訊室主任，財佛教慈濟醫療財團法人 聯絡方式：LEE@tzuchi.com.tw
-             電話：03-8561825 分機 17639 / 0928877016
-
+  電話：03-8561825 分機 17639 / 0928877016
 - **劉光宗**： 慈濟基金會資訊處副主任    gt_liou@tzuchi.cloud
-
 - **惟壹科技**：鮑家彥執行長
 
 管理組評審
 
 - ***翁瑞宏**：**教授，國立金門大學國際暨兩岸事務處國際長***
 - **廖又生**：教授，亞東科技大學醫務管理系主任
-                   聯絡方式：FL010@mail.oit.edu.tw / 0988010960
+  聯絡方式：FL010@mail.oit.edu.tw / 0988010960
 - **吳文彬**：副教授，德明財經科技大學企管系主任　聯絡方式：ogionged@gmail.com
 
 ## 📞 聯絡資訊
