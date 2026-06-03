@@ -8,7 +8,6 @@
 
 [檢核表](2026_Job_List_CheckPoint.docx)
 
-[檢核表2](2026_Job_List_CheckPoint.docx)
 
 每組報告:10分鐘, 提問/答辯: 3分鐘
 
