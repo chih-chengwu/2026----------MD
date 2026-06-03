@@ -6,7 +6,7 @@
 
 ## 6/12比賽當天-各組工作檢核表
 
-    [比賽當天各組工作檢核表](2026_Job_List_CheckPoint.docx)
+    [2026_Job_List_CheckPoint](2026_Job_List_CheckPoint.docx)
 
 每組報告:10分鐘, 提問/答辯: 3分鐘
 資訊組24組: 分3個場次, 15:50 報告結束
