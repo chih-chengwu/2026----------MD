@@ -69,7 +69,7 @@ b. 建國校區(A212之一微觀教室）同(a)也是, 但需找課務組美燕T
 競賽籌備的優先任務：
 
 1. 發送公文稿  [公文稿Link](https://docs.google.com/document/d/1Pml5aE88NE3V7gZIv3FUM75dEL0mQAj8/edit) 已經完成
-2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FdNguNbPNsxoRhtrw3WyBXyM3vGuXkRx/edit) 已經完成
+2. 公告競賽簡章  [簡章Link](https://docs.google.com/document/d/1FiMyLDZrbJ55mrGZaDdQIuIdcHvJgGDH/edit) 已經完成
 3. 設計並發佈海報  [海報LINK](https://drive.google.com/drive/u/0/folders/1EfqQanPTr97xGQhrATQcdne7E4skds65) 已經完成
 
 **註**：簡章內容中包含兩組報名連結，已經完成
